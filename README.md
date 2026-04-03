@@ -3,7 +3,7 @@ A documentation for version control and details about NGL that implemented insid
 
 [Open the wiki for further Documentation](https://github.com/ReNubProgrammer/NGL-for-MPC-Documentation/wiki)
 
-#How to Run
+# How to Run
 Please use the Main Program by access folder Main/Main Control.vi
 
 # Hardware Requirement
